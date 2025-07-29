@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# OpenSIPS CLI Java Port Launcher Script
+
+# Find the JAR file
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+JAR_FILE="$PROJECT_ROOT/target/opensips-cli-1.0.0.jar"
+
+# Check if JAR exists
+if [ ! -f "$JAR_FILE" ]; then
+    echo "Error: JAR file not found at $JAR_FILE"
+    echo "Please build the project first with: mvn clean package"
+    exit 1
+fi
+
+# Check Java version
+JAVA_VERSION=$(java -version 2>&1 | head -n 1 | cut -d'"' -f2 | cut -d'.' -f1)
+if [ "$JAVA_VERSION" -lt 11 ]; then
+    echo "Error: Java 11 or higher is required. Found Java $JAVA_VERSION"
+    exit 1
+fi
+
+# Run the CLI
+exec java -jar "$JAR_FILE" "$@"

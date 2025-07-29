@@ -1,0 +1,172 @@
+2025-07-29 17:54:18.146 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 17:54:18.148 [main] ERROR org.opensips.cli.OpenSIPSCLI - Failed to initialize OpenSIPS CLI: FIFO communication not yet implemented
+org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+2025-07-29 17:54:18.148 [main] ERROR org.opensips.cli.Main - Unexpected error: Initialization failed
+java.lang.RuntimeException: Initialization failed
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:72)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+Caused by: org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	... 2 common frames omitted
+2025-07-29 17:54:18.326 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 17:54:18.328 [main] ERROR org.opensips.cli.OpenSIPSCLI - Failed to initialize OpenSIPS CLI: FIFO communication not yet implemented
+org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+2025-07-29 17:54:18.328 [main] ERROR org.opensips.cli.Main - Unexpected error: Initialization failed
+java.lang.RuntimeException: Initialization failed
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:72)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+Caused by: org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	... 2 common frames omitted
+2025-07-29 17:54:18.549 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 17:54:18.552 [main] ERROR org.opensips.cli.OpenSIPSCLI - Failed to initialize OpenSIPS CLI: FIFO communication not yet implemented
+org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+2025-07-29 17:54:18.553 [main] ERROR org.opensips.cli.Main - Unexpected error: Initialization failed
+java.lang.RuntimeException: Initialization failed
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:72)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+Caused by: org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	... 2 common frames omitted
+2025-07-29 17:54:21.932 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 17:54:21.934 [main] ERROR org.opensips.cli.OpenSIPSCLI - Failed to initialize OpenSIPS CLI: FIFO communication not yet implemented
+org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+2025-07-29 17:54:21.935 [main] ERROR org.opensips.cli.Main - Unexpected error: Initialization failed
+java.lang.RuntimeException: Initialization failed
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:72)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+Caused by: org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	... 2 common frames omitted
+2025-07-29 17:54:22.153 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 17:54:22.155 [main] ERROR org.opensips.cli.OpenSIPSCLI - Failed to initialize OpenSIPS CLI: FIFO communication not yet implemented
+org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+2025-07-29 17:54:22.156 [main] ERROR org.opensips.cli.Main - Unexpected error: Initialization failed
+java.lang.RuntimeException: Initialization failed
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:72)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+Caused by: org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	... 2 common frames omitted
+2025-07-29 17:54:22.346 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 17:54:22.348 [main] ERROR org.opensips.cli.OpenSIPSCLI - Failed to initialize OpenSIPS CLI: FIFO communication not yet implemented
+org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+2025-07-29 17:54:22.348 [main] ERROR org.opensips.cli.Main - Unexpected error: Initialization failed
+java.lang.RuntimeException: Initialization failed
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:72)
+	at org.opensips.cli.OpenSIPSCLI.<init>(OpenSIPSCLI.java:42)
+	at org.opensips.cli.Main.main(Main.java:38)
+Caused by: org.opensips.cli.communication.CommunicationException: FIFO communication not yet implemented
+	at org.opensips.cli.communication.CommunicationManager.initialize(CommunicationManager.java:37)
+	at org.opensips.cli.OpenSIPSCLI.initialize(OpenSIPSCLI.java:55)
+	... 2 common frames omitted
+2025-07-29 18:02:13.354 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:02:18.423 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:02:24.307 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:02:30.702 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:04:31.372 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:04:34.046 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:25:17.502 [main] WARN  o.o.cli.config.ConfigurationManager - Failed to load configuration from /etc/opensips-cli.cfg: Could not locate: FileLocator [basePath=/etc, encoding=null, fileName=opensips-cli.cfg, fileSystem=null, locationStrategy=null, sourceURL=null, urlConnectionOptions=null]
+2025-07-29 18:25:17.504 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:28:57.840 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'http' not found, using default
+2025-07-29 18:29:07.291 [main] WARN  o.o.cli.config.ConfigurationManager - Failed to load configuration from /etc/opensips-cli.cfg: Could not locate: FileLocator [basePath=/etc, encoding=null, fileName=opensips-cli.cfg, fileSystem=null, locationStrategy=null, sourceURL=null, urlConnectionOptions=null]
+2025-07-29 18:29:07.292 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'http' not found, using default
+2025-07-29 18:30:55.055 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'fifo' not found, using default
+2025-07-29 18:30:59.150 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'fifo' not found, using default
+2025-07-29 18:33:24.473 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'fifo' not found, using default
+2025-07-29 18:33:28.394 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'fifo' not found, using default
+2025-07-29 18:33:32.055 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:43:15.762 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:43:15.766 [main] INFO  org.opensips.cli.modules.TrapModule - Trapping opensips in /tmp/gdb_opensips_20250729_184315
+2025-07-29 18:43:20.833 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:43:22.789 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:44:41.827 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:44:41.831 [main] INFO  org.opensips.cli.modules.TrapModule - Trapping opensips in /tmp/gdb_opensips_20250729_184441
+2025-07-29 18:44:42.715 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695274
+2025-07-29 18:44:42.774 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695273
+2025-07-29 18:44:42.834 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695271
+2025-07-29 18:44:42.896 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695270
+2025-07-29 18:44:42.977 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695263
+2025-07-29 18:44:43.043 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695260
+2025-07-29 18:44:43.179 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695256
+2025-07-29 18:44:43.241 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695254
+2025-07-29 18:44:43.309 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695252
+2025-07-29 18:44:43.371 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695249
+2025-07-29 18:44:43.443 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695248
+2025-07-29 18:44:43.511 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695247
+2025-07-29 18:44:43.570 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2695198
+2025-07-29 18:44:43.654 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689556
+2025-07-29 18:44:43.719 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689555
+2025-07-29 18:44:43.780 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689554
+2025-07-29 18:44:43.848 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689553
+2025-07-29 18:44:43.909 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689538
+2025-07-29 18:44:43.964 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689537
+2025-07-29 18:44:44.016 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689534
+2025-07-29 18:44:44.077 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689532
+2025-07-29 18:44:44.237 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689530
+2025-07-29 18:44:44.320 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689528
+2025-07-29 18:44:44.379 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689527
+2025-07-29 18:44:44.465 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689526
+2025-07-29 18:44:44.544 [main] WARN  org.opensips.cli.modules.TrapModule - No gdb output for pid 2689517
+2025-07-29 18:45:21.089 [main] WARN  o.o.cli.config.ConfigurationManager - Instance 'default' not found, using default
+2025-07-29 18:45:21.094 [main] INFO  org.opensips.cli.modules.TrapModule - Trapping opensips in /tmp/gdb_opensips_20250729_184521
+2025-07-29 18:45:21.812 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695274: Error: Could not find executable for process 2695274
+2025-07-29 18:45:21.812 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695273: Error: Could not find executable for process 2695273
+2025-07-29 18:45:21.812 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695271: Error: Could not find executable for process 2695271
+2025-07-29 18:45:21.812 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695270: Error: Could not find executable for process 2695270
+2025-07-29 18:45:21.812 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695263: Error: Could not find executable for process 2695263
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695260: Error: Could not find executable for process 2695260
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695256: Error: Could not find executable for process 2695256
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695254: Error: Could not find executable for process 2695254
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695252: Error: Could not find executable for process 2695252
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695249: Error: Could not find executable for process 2695249
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695248: Error: Could not find executable for process 2695248
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695247: Error: Could not find executable for process 2695247
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2695198: Error: Could not find executable for process 2695198
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689556: Error: Could not find executable for process 2689556
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689555: Error: Could not find executable for process 2689555
+2025-07-29 18:45:21.813 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689554: Error: Could not find executable for process 2689554
+2025-07-29 18:45:21.814 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689553: Error: Could not find executable for process 2689553
+2025-07-29 18:45:21.814 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689538: Error: Could not find executable for process 2689538
+2025-07-29 18:45:21.814 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689537: Error: Could not find executable for process 2689537
+2025-07-29 18:45:21.814 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689534: Error: Could not find executable for process 2689534
+2025-07-29 18:45:21.814 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689532: Error: Could not find executable for process 2689532
+2025-07-29 18:45:21.814 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689530: Error: Could not find executable for process 2689530
+2025-07-29 18:45:21.814 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689528: Error: Could not find executable for process 2689528
+2025-07-29 18:45:21.814 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689527: Error: Could not find executable for process 2689527
+2025-07-29 18:45:21.814 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689526: Error: Could not find executable for process 2689526
+2025-07-29 18:45:21.814 [main] WARN  org.opensips.cli.modules.TrapModule - Failed to get backtrace for pid 2689517: Error: Could not find executable for process 2689517
